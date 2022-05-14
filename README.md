@@ -1,0 +1,1 @@
+# Photovoltaic-property-prediction-by-CNN-using-2D-encoded-images-of-donor-molecules
